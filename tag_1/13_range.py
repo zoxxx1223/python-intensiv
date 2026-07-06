@@ -28,4 +28,5 @@ for i in range(0, len(people), MAX_GROUP):
         people[i: MAX_GROUP + i]
     )
 
+# Wir haben alle Gruppen gesliced und an groups angehängt
 print(groups)
