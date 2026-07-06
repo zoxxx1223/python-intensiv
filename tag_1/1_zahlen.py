@@ -17,7 +17,7 @@ Operatoren Precedence (Rangfolge)
 https://docs.python.org/3/reference/expressions.html#operator-precedence
 
 
-Weitere nützliche builtin Funktionen:
+Weitere nützliche builtin Funktionen (für int und float)
 - `sum()`: Summiert alle Werte in einer Sequenz.
 - `min()`: Gibt den kleinsten Wert einer Sequenz zurück.
 - `max()`: Gibt den größten Wert einer Sequenz zurück.
@@ -50,7 +50,7 @@ print("x**2:", x**2)
 
 """
 Aufgabe:
-Eine Halle ist 16 Meter lang. Ein Baumstamm ist 4 Meter lang.
+Eine Halle ist 16 Meter lang. Ein Baumstamm ist 3 Meter lang.
 
 Berechne, wie viele Baumstämme der Länge nach in die Halle passen
 und wie viele Meter übrig bleiben.
@@ -61,3 +61,11 @@ Beispiel:
 Es passen in die Halle: 4 Baumstämme
 Es sind noch 0 Meter übrig.
 """
+HALL_LENGTH = 16
+trunk_length = 3 
+
+total_trunks = HALL_LENGTH // trunk_length
+total_rest = HALL_LENGTH % trunk_length
+
+print("Es passen in die Halle:", total_trunks ,"Baumstämme")
+print("Es sind noch:", total_rest ,"übrig")
