@@ -1,0 +1,14 @@
+# Python Intensiv Schulung
+
+## Kurs-Zeiten
+8:00 - 16:00
+
+## Pausenzeiten
+9:30 - 9:45
+12:00: 13:00
+
+## Github-Repo
+--
+
+## Docs
+- https://docs.python.org/3/
