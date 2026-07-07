@@ -1,7 +1,8 @@
 """
-Iteration über Listen 
+Iteration über Listen
 for-loop: Sammlungsorierter Loop
 """
+
 ports = [80, 443, 232, 4242]
 for port in ports:
     print("Port =>", port)
@@ -20,7 +21,7 @@ for port in ports:
 print("filtered ports:", filtered_ports)
 
 
-# Zwei Listen an Index 
+# Zwei Listen an Index
 students = ["Bob", "Alice", "Grumpy"]
 grades = [1, 2, 4]
 
@@ -36,7 +37,7 @@ for student in students:
 for index, student in enumerate(students):
     print(student, grades[index])
 
-enum_objekt = enumerate(students) # Iterator, Iteratoren verbrauchen sich
+enum_objekt = enumerate(students)  # Iterator, Iteratoren verbrauchen sich
 print(list(enum_objekt))
 
 # break
