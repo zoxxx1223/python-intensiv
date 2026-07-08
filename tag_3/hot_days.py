@@ -27,6 +27,8 @@ Hinweise:
 * Die Funktion soll keine Ausgabe erzeugen, sondern das Ergebnis zurückgeben.
 """
 
+from typing import Final
+
 weekday_temperatures = [
     {"day": "Monday", "date": "2019-07-15", "temperature": 31},
     {"day": "Tuesday", "date": "2019-07-16", "temperature": 33},
@@ -43,6 +45,9 @@ weekday_temperatures = [
     {"day": "Saturday", "date": "2019-07-27", "temperature": 23},
     {"day": "Sunday", "date": "2019-07-28", "temperature": 32},
 ]
+
+WEEKEND: Final = ("Saturday", "Sunday")
+
 
 # Kommentare entfernen und Tests laufen lassen:
 # assert get_hot_work_days(weekday_temperatures, 30) == [
