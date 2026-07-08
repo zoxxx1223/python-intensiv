@@ -1,5 +1,8 @@
 # Tag 4
 
 ## Themen
-- File-Operationen, Pfad-Operationen
+- JSON, Json-Strings, HTTP-Requests, Lesen, Schreiben
+- CSV Einlesen, Schreiben (reader, writer)
+- Exception Handling
+- Modules, Imports, virtuelle Umgebungen, pip
 
