@@ -1,0 +1,11 @@
+id,type,name,rarity,damage,armor,value,effect
+1,generic,Iron Sword,common,10,0,25,
+2,generic,Steel Sword,uncommon,18,0,60,
+3,generic,Leather Armor,common,0,8,30,
+4,generic,Health Potion,common,0,0,15,heal_50
+5,unique,"King's Blade, Reforged",legendary,55,0,1200,bleed_chance
+6,unique,"Mage's Staff, Ancient",epic,42,0,950,mana_regen
+7,generic,Wooden Shield,common,0,12,35,
+8,unique,"Guardian's Aegis, Mark II",legendary,0,45,1800,reflect_damage
+9,generic,Mana Potion,common,0,0,18,restore_mana
+10,unique,"Ring of Fire, Eternal",legendary,0,0,2500,fire_aura
