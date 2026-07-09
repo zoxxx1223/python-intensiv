@@ -1,0 +1,229 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Aberaeron,Aberaeron,52.2500,-4.2500,United Kingdom,GB,GBR,Ceredigion,admin,,1826410688
+Aberdeen,Aberdeen,57.1704,-2.0800,United Kingdom,GB,GBR,Aberdeen City,admin,189364,1826324306
+Abertawe,Abertawe,51.6300,-3.9500,United Kingdom,GB,GBR,Swansea,admin,294339,1826574888
+Alloa,Alloa,56.1167,-3.8000,United Kingdom,GB,GBR,Clackmannanshire,admin,,1826126712
+Antrim,Antrim,54.7129,-6.2085,United Kingdom,GB,GBR,Antrim and Newtownabbey,admin,,1826477610
+Armagh,Armagh,54.3481,-6.6496,United Kingdom,GB,GBR,"Armagh, Banbridge and Craigavon",admin,,1826000010
+Ashton-under-Lyne,Ashton-under-Lyne,53.5000,-2.1000,United Kingdom,GB,GBR,Tameside,admin,,1826027715
+Aylesbury,Aylesbury,51.8167,-0.8000,United Kingdom,GB,GBR,Buckinghamshire,admin,,1826391298
+Ayr,Ayr,55.4504,-4.6167,United Kingdom,GB,GBR,South Ayrshire,admin,69042,1826430700
+Ballymena,Ballymena,54.8612,-6.2763,United Kingdom,GB,GBR,Mid and East Antrim,admin,,1826020355
+Banbridge,Banbridge,54.3509,-6.2670,United Kingdom,GB,GBR,"Armagh, Banbridge and Craigavon",admin,,1826331367
+Bangor,Bangor,54.6617,-5.6654,United Kingdom,GB,GBR,Ards and North Down,admin,,1826282262
+Barnsley,Barnsley,53.5500,-1.4833,United Kingdom,GB,GBR,Barnsley,admin,,1826597621
+Barri,Barri,51.4067,-3.2694,United Kingdom,GB,GBR,"Vale of Glamorgan, The",admin,,1826605492
+Bath,Bath,51.3837,-2.3500,United Kingdom,GB,GBR,Bath and North East Somerset,admin,93238,1826611282
+Bedford,Bedford,52.1333,-0.4500,United Kingdom,GB,GBR,Bedford,admin,,1826771105
+Belfast,Belfast,54.6000,-5.9600,United Kingdom,GB,GBR,Belfast,,450406,1826509389
+Belfast,Belfast,54.5968,-5.9254,United Kingdom,GB,GBR,Belfast,admin,,1826325087
+Beverley,Beverley,53.8333,-0.4167,United Kingdom,GB,GBR,East Riding of Yorkshire,admin,,1826700096
+Bexleyheath,Bexleyheath,51.4500,0.1500,United Kingdom,GB,GBR,Bexley,admin,,1826858601
+Birmingham,Birmingham,52.4750,-1.9200,United Kingdom,GB,GBR,Birmingham,admin,2285000,1826423213
+Blackburn,Blackburn,53.7500,-2.4833,United Kingdom,GB,GBR,Blackburn with Darwen,admin,,1826802533
+Blackpool,Blackpool,53.8304,-3.0500,United Kingdom,GB,GBR,Blackpool,admin,272792,1826093175
+Bolton,Bolton,53.5833,-2.4333,United Kingdom,GB,GBR,Bolton,admin,,1826628353
+Bournemouth,Bournemouth,50.7300,-1.9000,United Kingdom,GB,GBR,Bournemouth,admin,426945,1826769743
+Bracknell,Bracknell,51.4167,-0.7500,United Kingdom,GB,GBR,Bracknell Forest,admin,,1826880896
+Bradford,Bradford,53.8000,-1.7500,United Kingdom,GB,GBR,Bradford,admin,501700,1826687116
+Brighton,Brighton,50.8303,-0.1700,United Kingdom,GB,GBR,Brighton and Hove,,503008,1826609057
+Bristol,Bristol,51.4500,-2.5833,United Kingdom,GB,GBR,"Bristol, City of",admin,553528,1826921049
+Bromley,Bromley,51.4000,0.0500,United Kingdom,GB,GBR,Bromley,admin,,1826385764
+Bury,Bury,53.6000,-2.3000,United Kingdom,GB,GBR,Bury,admin,,1826242195
+Caerdydd,Caerdydd,51.5000,-3.2250,United Kingdom,GB,GBR,Cardiff,admin,861400,1826362422
+Caerfyrddin,Caerfyrddin,51.8592,-4.3117,United Kingdom,GB,GBR,Carmarthenshire,admin,,1826550370
+Caernarfon,Caernarfon,53.1500,-4.2667,United Kingdom,GB,GBR,Gwynedd,admin,,1826011275
+Camberwell,Camberwell,51.4736,-0.0916,United Kingdom,GB,GBR,Southwark,admin,,1826778761
+Cambridge,Cambridge,52.2004,0.1166,United Kingdom,GB,GBR,Cambridgeshire,admin,128488,1826229713
+Camden Town,Camden Town,51.5457,-0.1403,United Kingdom,GB,GBR,Camden,admin,,1826810136
+Carlisle,Carlisle,54.8800,-2.9300,United Kingdom,GB,GBR,Cumbria,admin,72633,1826843688
+Catford,Catford,51.4500,-0.0167,United Kingdom,GB,GBR,Lewisham,admin,,1826259011
+Chelmsford,Chelmsford,51.7333,0.4833,United Kingdom,GB,GBR,Essex,admin,,1826876670
+Chester,Chester,53.2000,-2.9200,United Kingdom,GB,GBR,Cheshire West and Chester,admin,89531,1826441668
+Chichester,Chichester,50.8333,-0.7833,United Kingdom,GB,GBR,West Sussex,admin,,1826696164
+Chicksands,Chicksands,52.0333,-0.3667,United Kingdom,GB,GBR,Central Bedfordshire,admin,,1826903198
+City of Westminster,City of Westminster,51.5000,-0.1167,United Kingdom,GB,GBR,Westminster,admin,,1826759011
+Clydach Vale,Clydach Vale,51.6267,-3.4761,United Kingdom,GB,GBR,Rhondda Cynon Taff,admin,,1826644016
+Coleraine,Coleraine,55.1349,-6.6687,United Kingdom,GB,GBR,Causeway Coast and Glens,admin,,1826465785
+Conwy,Conwy,53.2833,-3.8333,United Kingdom,GB,GBR,Conwy,admin,,1826011797
+Cookstown,Cookstown,54.6428,-6.7452,United Kingdom,GB,GBR,Mid Ulster,admin,,1826277161
+Coventry,Coventry,52.4204,-1.5000,United Kingdom,GB,GBR,Coventry,admin,388271,1826979198
+Craigavon,Craigavon,54.4497,-6.3646,United Kingdom,GB,GBR,"Armagh, Banbridge and Craigavon",admin,,1826678234
+Croydon,Croydon,51.3833,-0.1000,United Kingdom,GB,GBR,Croydon,admin,,1826126675
+Dagenham,Dagenham,51.5500,0.1667,United Kingdom,GB,GBR,Barking and Dagenham,admin,,1826363543
+Dalkeith,Dalkeith,55.8667,-3.0667,United Kingdom,GB,GBR,Midlothian,admin,,1826152382
+Darlington,Darlington,54.5333,-1.5667,United Kingdom,GB,GBR,Darlington,admin,,1826453946
+Derby,Derby,52.9333,-1.5000,United Kingdom,GB,GBR,Derby,admin,,1826333435
+Derry,Derry,55.0004,-7.3333,United Kingdom,GB,GBR,Derry and Strabane,admin,83652,1826603241
+Doncaster,Doncaster,53.5333,-1.1167,United Kingdom,GB,GBR,Doncaster,admin,,1826979494
+Dorchester,Dorchester,50.7167,-2.4333,United Kingdom,GB,GBR,Dorset,admin,,1826909037
+Dover,Dover,51.1337,1.3000,United Kingdom,GB,GBR,Kent,,36384,1826963129
+Downpatrick,Downpatrick,54.3269,-5.7113,United Kingdom,GB,GBR,"Newry, Mourne and Down",admin,,1826860584
+Dudley,Dudley,52.5000,-2.0833,United Kingdom,GB,GBR,Dudley,admin,,1826052828
+Dumbarton,Dumbarton,55.9500,-4.5667,United Kingdom,GB,GBR,West Dunbartonshire,admin,,1826077098
+Dumfries,Dumfries,55.0671,-3.5500,United Kingdom,GB,GBR,Dumfries and Galloway,admin,31044,1826801547
+Dundee,Dundee,56.4704,-3.0000,United Kingdom,GB,GBR,Dundee City,admin,151592,1826581481
+Dungannon,Dungannon,54.5033,-6.7643,United Kingdom,GB,GBR,Mid Ulster,admin,,1826799961
+Durham,Durham,54.7667,-1.5667,United Kingdom,GB,GBR,Durham,admin,,1826031748
+Ealing,Ealing,51.4888,-0.3048,United Kingdom,GB,GBR,Ealing,admin,,1826730060
+East Ham,East Ham,51.5333,0.0500,United Kingdom,GB,GBR,Newham,admin,,1826587417
+Ebbw Vale,Ebbw Vale,51.7833,-3.2000,United Kingdom,GB,GBR,Blaenau Gwent,admin,,1826821223
+Edinburgh,Edinburgh,55.9483,-3.2191,United Kingdom,GB,GBR,"Edinburgh, City of",admin,504966,1826492520
+Elgin,Elgin,57.6500,-3.3333,United Kingdom,GB,GBR,Moray,admin,,1826386055
+Enfield,Enfield,51.6667,-0.0667,United Kingdom,GB,GBR,Enfield,admin,,1826362409
+Enniskillen,Enniskillen,54.3466,-7.6411,United Kingdom,GB,GBR,Fermanagh and Omagh,admin,,1826724326
+Exeter,Exeter,50.7004,-3.5300,United Kingdom,GB,GBR,Devon,admin,113118,1826840903
+Falkirk,Falkirk,56.0000,-3.7667,United Kingdom,GB,GBR,Falkirk,admin,,1826502864
+Forfar,Forfar,56.6500,-2.8833,United Kingdom,GB,GBR,Angus,admin,,1826527188
+Fort William,Fort William,56.8165,-5.1121,United Kingdom,GB,GBR,Highland,,9652,1826742184
+Gateshead,Gateshead,54.9450,-1.6175,United Kingdom,GB,GBR,Gateshead,admin,,1826635849
+Giffnock,Giffnock,55.8000,-4.2833,United Kingdom,GB,GBR,East Renfrewshire,admin,,1826874548
+Glasgow,Glasgow,55.8744,-4.2507,United Kingdom,GB,GBR,Glasgow City,admin,1160000,1826836462
+Glenrothes,Glenrothes,56.2000,-3.1833,United Kingdom,GB,GBR,Fife,admin,,1826270044
+Gloucester,Gloucester,51.8333,-2.2500,United Kingdom,GB,GBR,Gloucestershire,admin,,1826932068
+Grays,Grays,51.4833,0.3333,United Kingdom,GB,GBR,Thurrock,admin,,1826003493
+Greenock,Greenock,55.9333,-4.7500,United Kingdom,GB,GBR,Inverclyde,admin,74635,1826864377
+Grimsby,Grimsby,53.5333,-0.0500,United Kingdom,GB,GBR,North East Lincolnshire,admin,,1826700880
+Hackney,Hackney,51.5500,-0.0500,United Kingdom,GB,GBR,Hackney,admin,,1826413202
+Haddington,Haddington,55.9333,-2.7667,United Kingdom,GB,GBR,East Lothian,admin,,1826363081
+Halifax,Halifax,53.7167,-1.8500,United Kingdom,GB,GBR,Calderdale,admin,,1826413776
+Hamilton,Hamilton,55.7667,-4.0333,United Kingdom,GB,GBR,South Lanarkshire,admin,,1826692620
+Hammersmith,Hammersmith,51.5000,-0.2333,United Kingdom,GB,GBR,Hammersmith and Fulham,admin,,1826090130
+Harrow,Harrow,51.5833,-0.3167,United Kingdom,GB,GBR,Harrow,admin,,1826648099
+Hartlepool,Hartlepool,54.6861,-1.2125,United Kingdom,GB,GBR,Hartlepool,admin,,1826069842
+Hendon,Hendon,51.6000,-0.2167,United Kingdom,GB,GBR,Barnet,admin,,1826052476
+Hereford,Hereford,52.0500,-2.7167,United Kingdom,GB,GBR,Herefordshire,admin,,1826996583
+Hertford,Hertford,51.8000,-0.0667,United Kingdom,GB,GBR,Hertfordshire,admin,,1826912872
+Hounslow,Hounslow,51.4667,-0.3500,United Kingdom,GB,GBR,Hounslow,admin,,1826943293
+Hove,Hove,50.8333,-0.1833,United Kingdom,GB,GBR,Brighton and Hove,admin,,1826419818
+Huddersfield,Huddersfield,53.6500,-1.7833,United Kingdom,GB,GBR,Kirklees,admin,,1826672445
+Hugh Town,Hugh Town,49.9146,-6.3143,United Kingdom,GB,GBR,Isles of Scilly,admin,,1826252332
+Hwlffordd,Hwlffordd,51.8017,-4.9708,United Kingdom,GB,GBR,Pembrokeshire,admin,,1826514766
+Ilford,Ilford,51.5597,0.0708,United Kingdom,GB,GBR,Redbridge,admin,,1826381000
+Inverness,Inverness,57.4671,-4.2333,United Kingdom,GB,GBR,Highland,admin,45158,1826161019
+Ipswich,Ipswich,52.0703,1.1700,United Kingdom,GB,GBR,Suffolk,admin,143767,1826629486
+Irvine,Irvine,55.6000,-4.6667,United Kingdom,GB,GBR,North Ayrshire,admin,,1826965925
+Islington,Islington,51.5333,-0.1000,United Kingdom,GB,GBR,Islington,admin,,1826267810
+Kensington,Kensington,51.5047,-0.1998,United Kingdom,GB,GBR,Kensington and Chelsea,admin,,1826583042
+Kilmarnock,Kilmarnock,55.6333,-4.5333,United Kingdom,GB,GBR,East Ayrshire,admin,,1826595229
+Kingston upon Hull,Kingston upon Hull,53.7504,-0.3300,United Kingdom,GB,GBR,"Kingston upon Hull, City of",admin,302296,1826028894
+Kingston upon Thames,Kingston upon Thames,51.4167,-0.2833,United Kingdom,GB,GBR,Kingston upon Thames,admin,,1826345299
+Kirkintilloch,Kirkintilloch,55.9167,-4.1667,United Kingdom,GB,GBR,East Dunbartonshire,admin,,1826571447
+Kirkwall,Kirkwall,58.9670,-2.9500,United Kingdom,GB,GBR,Orkney Islands,admin,8500,1826208698
+Knowsley,Knowsley,53.4500,-2.8500,United Kingdom,GB,GBR,Knowsley,admin,,1826568900
+Lambeth,Lambeth,51.5000,-0.1167,United Kingdom,GB,GBR,Lambeth,admin,,1826545364
+Leeds,Leeds,53.8300,-1.5800,United Kingdom,GB,GBR,Leeds,admin,1529000,1826343963
+Leicester,Leicester,52.6300,-1.1332,United Kingdom,GB,GBR,Leicester,admin,457983,1826431946
+Lerwick,Lerwick,60.1500,-1.1500,United Kingdom,GB,GBR,Shetland Islands,admin,6594,1826896340
+Lewes,Lewes,50.8667,-0.0167,United Kingdom,GB,GBR,East Sussex,admin,,1826774397
+Lincoln,Lincoln,53.2333,-0.5333,United Kingdom,GB,GBR,Lincolnshire,admin,,1826312785
+Lisburn,Lisburn,54.5099,-6.0404,United Kingdom,GB,GBR,Lisburn and Castlereagh,admin,,1826667481
+Liverpool,Liverpool,53.4160,-2.9180,United Kingdom,GB,GBR,Liverpool,admin,811000,1826558678
+Livingston,Livingston,55.8833,-3.5333,United Kingdom,GB,GBR,West Lothian,admin,,1826286558
+Llandrindod Wells,Llandrindod Wells,52.2333,-3.3833,United Kingdom,GB,GBR,Powys,admin,,1826769225
+Llangefni,Llangefni,53.2667,-4.3333,United Kingdom,GB,GBR,Isle of Anglesey,admin,,1826557923
+Lochgilphead,Lochgilphead,56.0333,-5.4167,United Kingdom,GB,GBR,Argyll and Bute,admin,,1826789416
+London,London,51.5000,-0.1167,United Kingdom,GB,GBR,"London, City of",primary,8567000,1826645935
+Luton,Luton,51.8804,-0.4200,United Kingdom,GB,GBR,Luton,admin,235958,1826630574
+Magherafelt,Magherafelt,54.7543,-6.6094,United Kingdom,GB,GBR,Mid Ulster,admin,,1826490342
+Maidenhead,Maidenhead,51.5167,-0.7000,United Kingdom,GB,GBR,Windsor and Maidenhead,admin,,1826979451
+Maidstone,Maidstone,51.2667,0.5167,United Kingdom,GB,GBR,Kent,admin,,1826000009
+Manchester,Manchester,53.5004,-2.2480,United Kingdom,GB,GBR,Manchester,admin,2230000,1826246335
+Matlock,Matlock,53.1333,-1.5333,United Kingdom,GB,GBR,Derbyshire,admin,,1826168850
+Merthyr Tudful,Merthyr Tudful,51.7500,-3.3833,United Kingdom,GB,GBR,Merthyr Tydfil,admin,,1826737367
+Middlesbrough,Middlesbrough,54.5804,-1.2300,United Kingdom,GB,GBR,Redcar and Cleveland,admin,416042,1826407067
+Milton Keynes,Milton Keynes,52.0333,-0.7000,United Kingdom,GB,GBR,Milton Keynes,admin,,1826291745
+Mold,Mold,53.1667,-3.1333,United Kingdom,GB,GBR,Flintshire,admin,,1826650301
+Morden,Morden,51.3982,-0.1984,United Kingdom,GB,GBR,Merton,admin,,1826667903
+Morpeth,Morpeth,55.1667,-1.6833,United Kingdom,GB,GBR,Northumberland,admin,,1826000022
+Motherwell,Motherwell,55.7833,-4.0000,United Kingdom,GB,GBR,North Lanarkshire,admin,,1826854355
+Newbury,Newbury,51.4000,-1.3167,United Kingdom,GB,GBR,West Berkshire,admin,,1826103829
+Newcastle upon Tyne,Newcastle upon Tyne,55.0004,-1.6000,United Kingdom,GB,GBR,Newcastle upon Tyne,admin,882000,1826292220
+Newport,Newport,50.7000,-1.3000,United Kingdom,GB,GBR,Isle of Wight,admin,,1826718687
+Newport,Newport,51.5833,-2.9833,United Kingdom,GB,GBR,Newport,admin,,1826018889
+Newry,Newry,54.1780,-6.3381,United Kingdom,GB,GBR,"Newry, Mourne and Down",admin,,1826243852
+Newtown Saint Boswells,Newtown Saint Boswells,55.5833,-2.6833,United Kingdom,GB,GBR,"Scottish Borders, The",admin,,1826157453
+Newtownabbey,Newtownabbey,54.6691,-5.9044,United Kingdom,GB,GBR,Antrim and Newtownabbey,admin,,1826392182
+Northallerton,Northallerton,54.3333,-1.4333,United Kingdom,GB,GBR,North Yorkshire,admin,,1826697671
+Northampton,Northampton,52.2500,-0.8833,United Kingdom,GB,GBR,Northamptonshire,admin,,1826806747
+Norwich,Norwich,52.6304,1.3000,United Kingdom,GB,GBR,Norfolk,admin,190756,1826688051
+Nottingham,Nottingham,52.9703,-1.1700,United Kingdom,GB,GBR,Nottingham,admin,825600,1826122597
+Oakham,Oakham,52.6667,-0.7333,United Kingdom,GB,GBR,Rutland,admin,,1826442570
+Oldbury,Oldbury,52.5000,-2.0167,United Kingdom,GB,GBR,Sandwell,admin,,1826772887
+Oldham,Oldham,53.5500,-2.1167,United Kingdom,GB,GBR,Oldham,admin,,1826716070
+Omagh,Omagh,54.6000,-7.3000,United Kingdom,GB,GBR,Fermanagh and Omagh,admin,21056,1826686995
+Oxford,Oxford,51.7704,-1.2500,United Kingdom,GB,GBR,Oxfordshire,admin,192796,1826689568
+Paisley,Paisley,55.8333,-4.4333,United Kingdom,GB,GBR,Renfrewshire,admin,,1826549531
+Pen-y-Bont ar Ogwr,Pen-y-Bont ar Ogwr,51.5058,-3.5772,United Kingdom,GB,GBR,Bridgend,admin,,1826587515
+Penzance,Penzance,50.1337,-5.5500,United Kingdom,GB,GBR,Cornwall,,20812,1826600240
+Perth,Perth,56.4003,-3.4700,United Kingdom,GB,GBR,Perth and Kinross,admin,39654,1826081674
+Peterborough,Peterborough,52.5804,-0.2500,United Kingdom,GB,GBR,Peterborough,admin,140141,1826626144
+Plymouth,Plymouth,50.3854,-4.1600,United Kingdom,GB,GBR,Plymouth,admin,247297,1826947183
+Pont-y-pŵl,Pont-y-pwl,51.7011,-3.0444,United Kingdom,GB,GBR,Torfaen,admin,,1826931206
+Poole,Poole,50.7167,-2.0000,United Kingdom,GB,GBR,Poole,admin,,1826379738
+Poplar,Poplar,51.5000,-0.0167,United Kingdom,GB,GBR,Tower Hamlets,admin,,1826020769
+Port Talbot,Port Talbot,51.6000,-3.7833,United Kingdom,GB,GBR,Neath Port Talbot,admin,,1826981147
+Portsmouth,Portsmouth,50.8003,-1.0800,United Kingdom,GB,GBR,Portsmouth,admin,442252,1826964096
+Preston,Preston,53.7667,-2.7167,United Kingdom,GB,GBR,Lancashire,admin,,1826018478
+Reading,Reading,51.4700,-0.9800,United Kingdom,GB,GBR,Reading,admin,369804,1826869043
+Rhuthun,Rhuthun,53.1167,-3.3000,United Kingdom,GB,GBR,Denbighshire,admin,,1826254442
+Rochdale,Rochdale,53.6167,-2.1500,United Kingdom,GB,GBR,Rochdale,admin,,1826578106
+Rochester,Rochester,51.3833,0.5167,United Kingdom,GB,GBR,Medway,admin,,1826559634
+Romford,Romford,51.5833,0.2000,United Kingdom,GB,GBR,Havering,admin,,1826695421
+Rotherham,Rotherham,53.4333,-1.3500,United Kingdom,GB,GBR,Rotherham,admin,,1826763937
+Saint Helens,Saint Helens,53.4500,-2.7333,United Kingdom,GB,GBR,St. Helens,admin,,1826775771
+Salford,Salford,53.4833,-2.2667,United Kingdom,GB,GBR,Salford,admin,,1826868550
+Sandbach,Sandbach,53.1333,-2.3667,United Kingdom,GB,GBR,Cheshire East,admin,,1826911682
+Scarborough,Scarborough,54.2804,-0.4300,United Kingdom,GB,GBR,North Yorkshire,,70571,1826723231
+Scunthorpe,Scunthorpe,53.5833,-0.6500,United Kingdom,GB,GBR,North Lincolnshire,admin,,1826817883
+Sheffield,Sheffield,53.3667,-1.5000,United Kingdom,GB,GBR,Sheffield,admin,1292900,1826289852
+Shrewsbury,Shrewsbury,52.7167,-2.7333,United Kingdom,GB,GBR,Shropshire,admin,,1826283137
+Slough,Slough,51.5000,-0.5833,United Kingdom,GB,GBR,Slough,admin,,1826807636
+Solihull,Solihull,52.4167,-1.7833,United Kingdom,GB,GBR,Solihull,admin,,1826720500
+South Bank,South Bank,54.5667,-1.1500,United Kingdom,GB,GBR,Redcar and Cleveland,admin,,1826839813
+South Shields,South Shields,54.9878,-1.4214,United Kingdom,GB,GBR,South Tyneside,admin,,1826396004
+Southampton,Southampton,50.9000,-1.4000,United Kingdom,GB,GBR,Southampton,admin,384417,1826602892
+Southend-on-Sea,Southend-on-Sea,51.5500,0.7200,United Kingdom,GB,GBR,Southend-on-Sea,admin,618386,1826524208
+Southport,Southport,53.6667,-3.0000,United Kingdom,GB,GBR,Sefton,admin,,1826271387
+Stafford,Stafford,52.8000,-2.1000,United Kingdom,GB,GBR,Staffordshire,admin,,1826088347
+Stirling,Stirling,56.1167,-3.9500,United Kingdom,GB,GBR,Stirling,admin,,1826517007
+Stockport,Stockport,53.4000,-2.1500,United Kingdom,GB,GBR,Stockport,admin,,1826228303
+Stockton-on-Tees,Stockton-on-Tees,54.5833,-1.4167,United Kingdom,GB,GBR,Stockton-on-Tees,admin,,1826259802
+Stoke-on-Trent,Stoke-on-Trent,53.0004,-2.1800,United Kingdom,GB,GBR,Stoke-on-Trent,admin,390801,1826799578
+Stornoway,Stornoway,58.2167,-6.3667,United Kingdom,GB,GBR,Eilean Siar,admin,,1826708788
+Strabane,Strabane,54.8224,-7.4684,United Kingdom,GB,GBR,Derry and Strabane,admin,,1826843663
+Stretford,Stretford,53.4500,-2.3167,United Kingdom,GB,GBR,Trafford,admin,,1826645692
+Sunderland,Sunderland,54.9200,-1.3800,United Kingdom,GB,GBR,Sunderland,admin,452934,1826736387
+Sutton,Sutton,51.3500,-0.2000,United Kingdom,GB,GBR,Sutton,admin,,1826827095
+Swindon,Swindon,51.5167,-1.7833,United Kingdom,GB,GBR,Swindon,admin,,1826498106
+Taunton,Taunton,51.0211,-3.1047,United Kingdom,GB,GBR,Somerset,admin,,1826959489
+Telford,Telford,52.6333,-2.5000,United Kingdom,GB,GBR,Telford and Wrekin,admin,,1826968934
+Thornbury,Thornbury,51.6089,-2.5203,United Kingdom,GB,GBR,South Gloucestershire,admin,,1826096107
+Torquay,Torquay,50.4500,-3.5000,United Kingdom,GB,GBR,Torbay,admin,,1826982921
+Trowbridge,Trowbridge,51.3189,-2.2086,United Kingdom,GB,GBR,Wiltshire,admin,,1826965204
+Truro,Truro,50.2617,-5.0433,United Kingdom,GB,GBR,Cornwall,admin,,1826586304
+Twickenham,Twickenham,51.4333,-0.3167,United Kingdom,GB,GBR,Richmond upon Thames,admin,,1826827915
+Usk,Usk,51.7025,-2.9042,United Kingdom,GB,GBR,Monmouthshire,admin,,1826007615
+Uxbridge,Uxbridge,51.5500,-0.4833,United Kingdom,GB,GBR,Hillingdon,admin,,1826505308
+Wakefield,Wakefield,53.7000,-1.4833,United Kingdom,GB,GBR,Wakefield,admin,,1826013112
+Wallasey,Wallasey,53.4333,-3.0667,United Kingdom,GB,GBR,Wirral,admin,,1826741418
+Wallsend,Wallsend,54.9914,-1.5597,United Kingdom,GB,GBR,North Tyneside,admin,,1826171317
+Walsall,Walsall,52.6000,-2.0000,United Kingdom,GB,GBR,Walsall,admin,,1826655696
+Walthamstow,Walthamstow,51.6000,-0.0333,United Kingdom,GB,GBR,Waltham Forest,admin,,1826009890
+Wandsworth,Wandsworth,51.4500,-0.2000,United Kingdom,GB,GBR,Wandsworth,admin,,1826844924
+Warrington,Warrington,53.3833,-2.6000,United Kingdom,GB,GBR,Warrington,admin,,1826261547
+Warwick,Warwick,52.2833,-1.5833,United Kingdom,GB,GBR,Warwickshire,admin,,1826383937
+Wembley,Wembley,51.5500,-0.2833,United Kingdom,GB,GBR,Brent,admin,,1826635683
+Weston-super-Mare,Weston-super-Mare,51.3458,-2.9678,United Kingdom,GB,GBR,North Somerset,admin,,1826189795
+Wick,Wick,58.4333,-3.0834,United Kingdom,GB,GBR,Highland,,7147,1826766399
+Widnes,Widnes,53.3500,-2.7333,United Kingdom,GB,GBR,Halton,admin,,1826947686
+Wigan,Wigan,53.5333,-2.6167,United Kingdom,GB,GBR,Wigan,admin,,1826902223
+Winchester,Winchester,51.0167,-1.3167,United Kingdom,GB,GBR,Hampshire,admin,,1826967267
+Wokingham,Wokingham,51.4167,-0.8333,United Kingdom,GB,GBR,Wokingham,admin,,1826878333
+Wolverhampton,Wolverhampton,52.5833,-2.1333,United Kingdom,GB,GBR,Wolverhampton,admin,,1826636841
+Wood Green,Wood Green,51.6000,-0.1167,United Kingdom,GB,GBR,Haringey,admin,,1826902664
+Woolwich,Woolwich,51.4667,0.2000,United Kingdom,GB,GBR,Greenwich,admin,,1826479020
+Worcester,Worcester,52.2000,-2.2000,United Kingdom,GB,GBR,Worcestershire,admin,,1826393854
+Wrecsam,Wrecsam,53.0500,-3.0000,United Kingdom,GB,GBR,Wrexham,admin,,1826879983
+York,York,53.9704,-1.0800,United Kingdom,GB,GBR,York,admin,158947,1826149980
+Ystrad Mynach,Ystrad Mynach,51.6403,-3.2433,United Kingdom,GB,GBR,Caerphilly,admin,,1826498228
