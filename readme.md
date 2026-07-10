@@ -13,5 +13,7 @@ https://github.com/zoxxx1223/python-intensiv
 ## Docs
 - https://docs.python.org/3/
 - https://python-admins.friendlybytes.net
+- https://python-umsteiger.friendlybytes.net/
 - https://mypy-lang.org/
 - https://github.com/psf/requests
+- https://pypi.org/project/loguru/
